@@ -10,13 +10,7 @@ install:
 script:
   - echo $TRAVIS_PULL_REQUEST
   - echo $TRAVIS_BRANCH
-  - |
-      if [ "${TRAVIS_PULL_REQUEST}" = "true" ] ; then 
-        git diff --name-only ${TRAVIS_BRANCH}..HEAD -- | grep -E '(staging\.txt$)' || { 
-          echo "don't run travis on PR for other file change that staging.txt"
-          exit
-        }
-      fi
+  - git diff --name-only ${TRAVIS_BRANCH}..HEAD
   - Rscript R/create-md.R
   - git add -A
   - git diff --cached
