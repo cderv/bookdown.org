@@ -10,10 +10,11 @@ install:
 script:
   - |
       if [ "${TRAVIS_PULL_REQUEST}" = "true" ] ; then 
-        git diff --name-only promote-cookbook..master | grep -E '(staging\.txt$)' || { 
+        git diff --name-only ${TRAVIS_BRANCH}..HEAD -- | grep -E '(staging\.txt$)' || { 
           echo "don't run travis on PR for other file change that staging.txt"
           exit
         }
+      fi
   - Rscript R/create-md.R
   - git add -A
   - git diff --cached
