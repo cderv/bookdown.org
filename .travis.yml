@@ -10,7 +10,7 @@ install:
 script:
   - echo $TRAVIS_PULL_REQUEST
   - echo $TRAVIS_BRANCH
-  - git diff --name-only ${TRAVIS_BRANCH}..HEAD
+  - git diff --name-only $TRAVIS_COMMIT_RANGE | grep -E 'staging\.txt' || echo test
   - Rscript R/create-md.R
   - git add -A
   - git diff --cached
