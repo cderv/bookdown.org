@@ -1,6 +1,6 @@
 ---
 title: "Property Class Spring 2020"
-author: "Dr. Taleed El-Sabawi"
+author: "Dr. Taleed El-Sabawi"
 date: "2020-05-29T19:56:07Z"
 tags: [Course]
 link: "https://bookdown.org/taleedsabawi/property_spring_2020/"

@@ -1,10 +1,10 @@
 ---
-title: "Applications and Examples II"
+title: "Planning SNA Research and Projects"
 author: "Bodong Chen"
-date: "2021-03-16T17:40:05Z"
+date: "2021-03-30T22:24:59Z"
 tags: [Course, Network, Education]
 link: "https://bookdown.org/chen/snaEd/"
-length_weight: "21.3%"
+length_weight: "23%"
 cover: "https://bookdown.org/chen/snaEd/images/cover.png"
 repo: "meefen/sna-ed"
 pinned: false

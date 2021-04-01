@@ -1,5 +1,5 @@
 ---
-title: "課程大綱 | ntpu-programming-for-data-science.utf8.md"
+title: "ntpu-programming-for-data-science.utf8.md"
 author: "tpemartin"
 date: "2019-06-12T07:03:41Z"
 tags: [Course, Data Analysis]

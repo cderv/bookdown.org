@@ -1,6 +1,6 @@
 ---
 title: "Modul Pelatihan Riset Kuantitatif Ekonomi dan Manajemen INSW"
-author: "Tim Pengajar :, Dr. Bagus Sartono, M.Si dan Aep Hidayatuloh, S.Stat"
+author: "Tim Pengajar :, Dr. Bagus Sartono, M.Si dan Aep Hidayatuloh, S.Stat"
 date: "2020-10-05T09:21:54Z"
 tags: [Machine Learning]
 link: "https://bookdown.org/aepstk/modul-pelatihan-insw/"

@@ -1,5 +1,5 @@
 ---
-title: "課程介紹 | ntpu-datavisualization.utf8.md"
+title: "ntpu-datavisualization.utf8.md"
 author: "tpemartin"
 date: "2019-10-02T07:20:30Z"
 tags: [Visualization, Course, R Programming, Data Science]
