@@ -1,9 +1,9 @@
 ---
 title: "Psy_Methology.utf8"
 author: "yuaye_kt"
-date: "2021-03-17T13:21:31Z"
+date: "2021-03-24T16:39:15Z"
 link: "https://bookdown.org/yuaye_kt/io_methology/"
-length_weight: "9.3%"
+length_weight: "15.4%"
 pinned: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Medicina de Estilo de Vida"
-author: "Dr. Héctor Murillo"
+author: "Dr. Héctor Murillo"
 date: "2021-02-02T05:13:52Z"
 tags: [Package, Medicine]
 link: "https://bookdown.org/hectormurillo/mev/"

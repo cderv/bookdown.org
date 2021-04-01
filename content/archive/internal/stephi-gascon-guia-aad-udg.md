@@ -1,5 +1,5 @@
 ---
-title: " “Guia bàsica d’ús d’R amb Rstudio”  | index.split"
+title: "index.split"
 author: "“Jordi Compte, Rafael Muñoz-Mas, María Antón-Pardo & Stéphanie Gascón”"
 date: "2020-11-02T13:47:48Z"
 tags: [Package]

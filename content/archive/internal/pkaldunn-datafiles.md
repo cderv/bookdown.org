@@ -1,10 +1,10 @@
 ---
 title: "The Data Files"
 author: "Peter K. Dunn and Margaret Marshman"
-date: "2021-03-17T06:15:03Z"
-tags: [Statistics, Education, Package]
+date: "2021-03-24T06:07:29Z"
+tags: [Statistics, Education]
 link: "https://bookdown.org/pkaldunn/DataFiles/"
-length_weight: "9.4%"
+length_weight: "10.5%"
 pinned: false
 ---
 
@@ -15,11 +15,4 @@ Australian Mathematics Education Journal,
 by
 Dr Peter K. Dunn
 and
-Dr Margaret Marshman: The icons used in this book have meanings; for example: This book was made using
-R
-(R Core Team 2018),
-and the bookdown package
-(Xie 2016),
-which is based on Markdown syntax,
-using knitr
-(Xie 2015). Numerous other R packages were used too: All of this software is free and open source. ...
+Dr Margaret ...

@@ -1,6 +1,6 @@
 ---
 title: "Quantitative Methoden für Wirtschaftswissenchaften"
-author: "Prof. Dr. Ralf Kellner"
+author: "Prof. Dr. Ralf Kellner"
 date: "2020-06-15T15:32:41Z"
 link: "https://bookdown.org/ralf_kellner/Quant_meth/"
 length_weight: "8.5%"
